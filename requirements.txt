@@ -1,0 +1,7 @@
+pyspark == 3.3.0       # Version Matching. Must be version 3.3.0
+
+## dev
+setuptools == 65.5.1
+pytest == 7.2.0          # Compatible release. Same as >= 7.2, == 7.*
+pytest-spark >= 0.6.0    # Minimum version 0.6.0
+

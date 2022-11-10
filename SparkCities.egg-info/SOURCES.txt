@@ -1,0 +1,11 @@
+setup.py
+SparkCities.egg-info/PKG-INFO
+SparkCities.egg-info/SOURCES.txt
+SparkCities.egg-info/dependency_links.txt
+SparkCities.egg-info/requires.txt
+SparkCities.egg-info/top_level.txt
+spark_cities/__init__.py
+spark_cities/functions.py
+spark_cities/main.py
+spark_cities/models/__init__.py
+spark_cities/models/cities.py
